@@ -2,7 +2,7 @@ macro_douga: macro_douga{
 compatible = "zmk,behavior-macro";
 label = "macro_douga";
 #binding-cells = <0>;
-bindings = <&kp LC(TAB)>, <&kp F5>, <&kp LC(D)>;
+bindings = <&kp LC(TAB)>, <&kp F5>, <&kp LC(D)>, <&kp F5>;
 };
 macro_sugawara: macro_sugawara{
 compatible = "zmk,behavior-macro";
